@@ -1,7 +1,5 @@
 <img
   align="center"
-  width="577px"
-  height="177px"
   alt="Brian says Hello"
   src="https://github.com/briang123/briang123/blob/master/BrianGaines.gif"
 />
