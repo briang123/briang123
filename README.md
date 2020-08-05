@@ -7,7 +7,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=briang123&layout=compact&theme=radical"
 />
 
-<img
+<!-- <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/pin?username=briang123&repo=stats-challenge-in-react-js&theme=radical&show_owner=true"
-/>
+/> -->
