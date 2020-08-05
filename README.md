@@ -1,6 +1,6 @@
 <img
   align="center"
-  src="https://github.com/briang123/BrianGaines.gif"
+  src="https://github.com/briang123/briang123/blob/master/BrianGaines.gif"
 />
 
 <img
