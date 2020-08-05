@@ -1,11 +1,5 @@
 <img
   align="center"
-  alt="Brian says Hello"
-  src="https://github.com/briang123/briang123/blob/master/BrianGaines.gif"
-/>
-
-<img
-  align="center"
   src="https://github-readme-stats.vercel.app/api/?username=briang123&show_icons=true&count_private=true&theme=radical&include_all_commits=true"
 />
 <img
