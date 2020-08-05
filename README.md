@@ -1,6 +1,6 @@
 <img
   align="center"
-  src="briang123.gif"
+  src="https://github.com/briang123/BrianGaines.gif"
 />
 
 <img
@@ -9,18 +9,10 @@
 />
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=briang123&show_icons=true&count_private=true&theme=radical"
-/>
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/pin?username=briang123&repo=stats-challenge-in-react-js&theme=radical&show_owner=true"
-/>
-<img
-  align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=briang123&layout=compact&theme=radical"
 />
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=briang123&theme=radical"
+  src="https://github-readme-stats.vercel.app/api/pin?username=briang123&repo=stats-challenge-in-react-js&theme=radical&show_owner=true"
 />
