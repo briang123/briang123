@@ -152,3 +152,10 @@ This approach, learning by doing and being thrown into diverse tech environments
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=briang123&show_icons=true)
 
+
+## 🎵 Spotify Focus Playlist
+
+I wanted to share a coding playlist I created that is mostly of Post-Rock and Electronic Instrumental music that contains sounds which allow you to forget the world and just focus on coding or any other focus activity. The songs truly are relaxing and will allow you to get in a zone for extended periods of time. Feel free to follow the playlist if you're on Spotify.
+
+[Focused Coding](https://open.spotify.com/playlist/3tLx7gewQRuHOE3dpGGKgQ?si=b3e94ee3a1524cc5) Playlist on Spotify
+
