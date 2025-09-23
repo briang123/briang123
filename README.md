@@ -2,8 +2,6 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briang.sandiego@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briangaines)
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=briang123&show_icons=true)
-
 ## 🚀 About Me
 
 I'm a collaborative engineering leader who believes teams do their best work when there is trust, clarity, and shared ownership. I give engineers a real voice in how we build things while keeping us aligned on the big picture. My focus is on open communication, unblocking challenges quickly, and making sure people feel supported, especially when priorities shift or pressure builds. I do not micromanage; instead, I stay close enough to help guide technical decisions when needed. My ultimate goal is to build a healthy team culture where engineers feel proud of what they are building and enjoy the process of solving hard problems together.
@@ -96,3 +94,9 @@ Conducted a hands-on exploration of AI's impact on engineering workflows by leve
 ## 🏫 Education
 
 I graduated with a Bachelor of Science degree in Geology in 1995 from Illinois State University in Normal, IL
+
+
+## 📊 Meta
+
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=briang123&show_icons=true)
+
