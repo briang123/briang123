@@ -45,6 +45,12 @@ I've worked professional in several different industries over my career, includi
 * **Project Delivery and Agile Practices:** Experienced in agile management, ensuring project clarity and adaptability.
 * **Mentorship and Development:** Committed to mentoring and developing teams, enhancing learning and growth.
 
+### Professional Skills
+
+* **Leadership & Strategy:** Leadership, Team Management, People Management, Mentorship, Client Relations, Strategic Planning, Roadmapping, Remote & Offshore Team Management, Cross-Functional Collaboration, Process Improvements, Problem Solving
+* **Engineering & Delivery:** Project Delivery, Scrum (Agile), Atlassian JIRA, Code Reviews, QA & Feature Testing, Version Control, Release Management, Technical Documentation
+* **Application Development:** Mobile Application Development, Web Application Development, Back-End Development, Front-End Engineering, E-Commerce Applications, Enterprise Development, App Store Deployment
+
 ## Professional Experience
 
 #### **Software Engineering Manager, Branding Brand** (June 2022 - May 2025)
@@ -95,6 +101,17 @@ Conducted a hands-on exploration of AI's impact on engineering workflows by leve
 
 I graduated with a Bachelor of Science degree in Geology in 1995 from Illinois State University in Normal, IL
 
+## ⚒️ From Geology to Development
+
+After graduating with a geology degree, my career began at an environmental consulting company (Mostardi-Platt Associates). My job there involved climbing smokestacks, collecting emissions data, and writing reports for the EPA.
+
+While processing data, I was manually creating spreadsheets for each testing session. A colleague introduced me to Excel macros and VBA programming, showing me how to record and automate repetitive tasks. This sparked my interest in coding.
+
+Around 1997, at the height of the .com boom, I became fascinated with how I could use code to make my work more efficient. I started learning programming by recording and modifying macros, which gave me a hands-on introduction to coding.
+
+Seeing the potential, I decided to pursue coding full-time and put my resume on Monster.com. Within a week, I was hired by a consulting company (Bond Technologies) that trained me on the job. I was exposed to a variety of technologies, programming languages, and industries by being placed with different clients. During this time, I became accustomed to learning new technologies regularly and worked with many different stacks, including Classic ASP, VB, VB.NET, Delphi, XML, Vignette StoryServer, and SQL Server.
+
+This approach—learning by doing and being thrown into diverse tech environments—became my pathway from geology to a full-time career in software development.
 
 ## 📊 Meta
 
