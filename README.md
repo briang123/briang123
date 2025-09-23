@@ -53,39 +53,74 @@ I've worked professional in several different industries over my career, includi
 
 ## Professional Experience
 
-#### **Software Engineering Manager, Branding Brand** (June 2022 - May 2025)
+### **Software Engineering Manager, Branding Brand** (June 2022 - May 2025)
 
-* **Key Responsibilities:** Led and mentored globally distributed engineering teams (up to 8 direct reports) to deliver high-performing mobile commerce applications for major retail brands like Boot Barn, Country Road, and CVS Health.
+* **Key Responsibilities:** Led and mentored globally distributed engineering teams (up to 8 direct reports) to deliver high-performing mobile commerce applications for major retail brands like Boot Barn, Country Road, Mimco, Witchery, and CVS Health.
+* **Team Leadership & Communication:** Lead Daily Stand-up Meetings with Engineers, Facilitate Forward Progress, Ticket Unblocking
+* **Innovation:** Improving processes, Keeping team motivated and engaged
+* **Technical Oversight:** Feature Feasibilities/Spikes, Research and Assessments, Guiding Engineering Work, Problem Solving, PR/Code Reviews and Merges, GitHub Repo Management, App Build and Release Management, Manage and Coordinate Down Merges
+* **Project Management:** Client Meetings and Communication, Daily PM Sync-Up Meetings, Weekly UI/UX Sync-up Meetings, Ticket Grooming, Ticket Sub-Tasking, Ticket Estimations, Adapt and Shift Priorities
 * **Accomplishments:**
     * Spearheaded the architecture and deployment of a scalable white-label mobile platform, which accelerated time-to-market for three distinct co-branded apps.
     * Drove strategic process optimizations and team engagement, which improved developer velocity, code quality, and team morale.
     * Championed code quality through rigorous code reviews and continuous technical oversight across multiple projects.
     * Contributed to roadmap planning, resourcing, and execution strategies.
 
-#### **Senior Software Engineer, National Powersport Auctions** (Feb 2019 - June 2022)
 
-* **Key Responsibilities:** Designed and developed critical real-time frontend responsive applications.
-* **Accomplishments:**
-    * Rewrote an antiquated jQuery mobile site into an offline-first React Native app, providing NPA with a real-time review of vehicle status.
-    * Developed a suite of five Simulcast Software applications with Mobile Bidding using ReactJS, which handled less than half-second response times and generated over $50M in sales per month.
-    * Created the Digital Ad Pack feature using ASP.NET, jQuery, and SQL Server, which reduced the wait period for dealers to purchase and download media by two weeks.
-    * Built dealer checkout processes on the dealer's account page and internal auction management system, improving the efficiency of post-auction vehicle procurement.
+### **Senior Software Engineer, National Powersport Auctions** (Feb 2019 - June 2022)
 
-#### **Senior Applications Developer & Team Lead, National Futures Association** (2003 - Aug 2017)
+* **Key Responsibilities:** I worked in a team environment and leverage Agile software development principles to develop new projects, core features and support existing functionality that directly impacts the company's bottom line and improve dealer experiences.
+* **Key Contributions:**
+   - Started the development of a Transit Mobile app with React Native that allow carriers to manage and track inventory. Did not finish this app before moving on to Branding Brand.
+   - Built the front-end UI/UX components from the ground up for a critical real-time SaaS platform that serves dealers worldwide and sells over $1 Million of product every auction using React, custom React Hooks, MobX, SignalR Web Sockets, Janus Media Server, REST API's, Styled Components, CSS Grid, and Framer Motion that leverage .Net core Microservices, Azure cloud services, and a SQL database. Used Jest, React Testing Library, and Cypress.io for tests.
+   - Developed the front-end UI/UX of revenue-generating DigitalAdPackageTM that allows dealers to purchase media and condition reports, which enable them to list their auction purchases on their website the same day they are purchased. This feature used .NET, jQuery, AngularJS, and SQL Stored Procedures.
+   - Implemented a streamlined dealer checkout workflow process from the dealer's membership portal on the npauctions.com website that integrated with the back-end auction management software using.NET, jQuery, classic ASP, SQL Stored Procedures, and REST API's
+   - Provide seamless interaction for dealers with NPA applications by providing support for the NPA website, mobile site, and each of the seven Exchange websites (BMW, Harley-Davidson, Yamaha, Honda, Piaggio, MotoLease, and Insurance Total Loss). These sites leverage .NET, jQuery Mobile, Angular 2, and AngularJS and SQL database.
+   - Developed an internal at-a-glance Sprint Status application that enabled product owners to access the most up-to-date information from our sprints. Created this app using React and a .NET core API service that made requests to the Scrumwise API.
+   - Support and enhanced the internal content management system that enables the Marketing team to launch campaigns and website content without the need for IT involvement, such as the ability to stage, review, then deploy content changes to a Production environment. I implemented the functionality using.NET CQRS, MVC, and a SQL Server database.
+   - Provide continuous support and implement feature requests for the auction management platform that enables the business to run smoothly.
 
-* **Key Responsibilities:** Redesigned and improved NFA's dashboard site. Mentored other developers. Served as an IT Project Manager on several projects.
-* **Accomplishments:**
-    * Redesigned and improved NFA's dashboard site, which allowed firms to log in, view, and act on their current financial requirements.
-    * Led the design and development of a modern web app to upgrade the internal financial analysis system, providing administrative, search, and checklist screens for Compliance auditors.
-    * Pioneered a database-driven statement generator template architecture that was adopted by a dozen newer applications in the NFA ecosystem.
-    * Orchestrated framework upgrades, authentication conversions, system deployments, and coordinated testing with QA teams.
+### Career Break / Personal Growth (Aug 2017 - Feb 2019)
 
-#### **Project Leader, Bond Technologies** (1998-2002)
+My wife and I both decided to leave our Software engineering jobs in Chicago to move to San Diego to raise our family. We agreed that I could take a planned sabbatical after relocating to enjoy San Diego, spend more time with family/kids, and learn some new technologies in the process.
 
-* **Key Responsibilities:** Led sales initiatives, managed the professional and technical growth of consultants, and shared knowledge with others.
-* **Accomplishments:**
-    * Responsible for the project delivery of small project teams at several clients, which included managing client expectations, leading project meetings, and managing deliverables.
-    * Served as the United Airlines website support team leader, responsible for managing and guaranteeing the technical delivery of the team and leading cross-functional efforts.
+### **National Futures Association** (2003 - Aug 2017)
+
+* **Key Responsibilities:** Developed business internal and external full-stack web applications, worked both independently and on a team to manage and guide projects. Headed up projects and mobilized developers in all phases of project development. Mentored and guided staff, instituted new staff onboarding orientations, wrote reviews, and formalized developer training programs.
+
+### **IT Project Manager & Team Lead** (2014 - 2017)
+
+* **Key Contributions:**
+   - **Redesigned and coded an internal financial analysis system from the ground up.** I managed and steered the technical direction that ensured a solid foundation for current and future development. Managed and exceeded expectations by delivering the project early.
+   - **Served as the architect and lead front-end developer for the new dashboard system** that served as the entry point for all firms upon authentication and provided at-a-glance information at their fingertips. Served as a mentor who taught project developers' syntactical knowledge, as well as the system's MVC architecture.
+   - **Led the design and architecture for front-end and back-end integrations and trained project team members.** Converted and enhanced Phase one of the online registration system's multi-phase initiative to improve user experience and provide new features.
+   - **Orchestrated framework upgrades, authentication conversions, and system deployments** of 26 applications that enabled systems to proceed with latest initiatives.
+   - **Coordinated IS department-wide testing of 146 business applications** resulting from an Oracle Encryption upgrade, which enabled the organization to comply with the National Institute of Standards and Technology's Encryption standards.
+   - **Produced custom training programs for software development staff.** Assembled a list of developer training videos that would help them learn the organization's new technology stack.
+   - **Served as Content Manager of IS department's portal content.** Collaborated with steering committees, tested and managed content, performed audits and ensured compliance, created and managed project team sites.
+
+### **Senior Application Developer** (2005 - 2014)
+
+* **Key Contributions:**
+   - **Led initiative to upgrade authentication** for 13 systems and **develop a single sign-on web application** that served over 1M successful logins.
+   - **Served as liaison for IS department with Communications and Human Resources departments** and coordinated all technical aspects of the organization's Careers "Microsite, " that launched as Phase one of a multi-phased launch of a site-wide redesign initiative.
+   - **Developed a relationship management system from the ground up and integrated** into a suite of two new companion risk systems. These systems accelerated the staff's ability to filter and confirm specific information.
+   - **Created a client-rich CFTC's Form 102 and several maintenance screens** that improved the staff's ability to associate relationships between large traders and clearing firms, manage omnibus accounts, and hedge exemptions.
+
+#### **Application Developer** (2003 - 2005)
+
+* **Key Contributions:**
+   - **Pioneered the creation of a data-driven template architecture** for a financial reporting system from the ground up that decreased the implementation time for 12 other systems.
+   - **Formed early stages of the organization's core IS Standards components** widely used by all applications to enforce consistency, reduce costs, and save time and effort.
+
+#### **Technical Project Leader, Bond Technologies** (1998-2002)
+
+* **Key Responsibilities:** Developed full-stack web applications, provided system support, and managed projects across multiple clients and industries. Managed and mentored a small team of consultants, developed career plans and wrote annual reviews. I progressed from a Consultant, Senior Consultant, to Technical Project Leader during this time.
+* **Key Contributions:**
+   - **Engaged in key leadership roles** such as leading sales initiatives, managed professional and technical growth of consultants, and shared technical knowledge with others.
+   - **Responsible for project delivery of small project teams** at several clients, which included managing client expectations, leading project meetings, managing deliverables, and technical delivery.
+   - **Designed and developed several client/server and web applications** for various clients across **Financial, Media, Consumer, Insurance, and Industrial industries.**
+   - **United Airlines website support team leader** responsible for managing and guaranteeing the technical delivery of both Bond and United Airline employees, understanding, scheduling, and deploying content releases.
 
 ## 💼 AI Coding Projects
 
