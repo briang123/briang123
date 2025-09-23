@@ -111,7 +111,7 @@ Around 1997, at the height of the .com boom, I became fascinated with how I coul
 
 Seeing the potential, I decided to pursue coding full-time and put my resume on Monster.com. Within a week, I was hired by a consulting company (Bond Technologies) that trained me on the job. I was exposed to a variety of technologies, programming languages, and industries by being placed with different clients. During this time, I became accustomed to learning new technologies regularly and worked with many different stacks, including Classic ASP, VB, VB.NET, Delphi, XML, Vignette StoryServer, and SQL Server.
 
-This approach—learning by doing and being thrown into diverse tech environments—became my pathway from geology to a full-time career in software development.
+This approach, learning by doing and being thrown into diverse tech environments became my pathway from geology to a full-time career in software development.
 
 ## 📊 Meta
 
