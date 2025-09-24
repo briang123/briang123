@@ -81,9 +81,17 @@ I've worked professional in several different industries over my career, includi
   - Supported and enhanced the internal content management system that enables the Marketing team to launch campaigns and website content without the need for IT involvement, such as the ability to stage, review, then deploy content changes to a Production environment. I implemented the functionality using .NET CQRS, MVC, and a SQL Server database.
   - Provided continuous support and implement feature requests for the auction management platform that enables the business to run smoothly.
 
-### Career Break / Personal Growth (Aug 2017 - Feb 2019)
+### **Career Break / Personal Growth** (Aug 2017 - Feb 2019)
 
 My wife and I both decided to leave our Software engineering jobs in Chicago to move to San Diego to raise our family. We agreed that I could take a planned sabbatical after relocating to enjoy San Diego, spend more time with family/kids, and learn some new technologies in the process.
+
+### **Race Director/Co-Founder, Runners 4 Wellness, LLC** (2014 - 2024)
+
+- **Key Contributions:**
+  - I had the special privilege of managing and organizing endurance events that changed lives. With our events, participants became part of our family, and we focused on providing the best possible runner experience. With a 5-star rating on Facebook and the positive feedback we received, it inspired us to continually raise the bar.
+  - As a race director, I oversaw, coordinated, and implemented the [Des Plaines River Trail Half Marathon, Marathon, and 50-Mile Trail Races](https://www.desplainesrivertrailraces.com), as well as the Christmas in July 5K, 6/12/24-Hour Solo and Relay Endurance Runs in the Chicago area. My responsibilities included budget management and accountability, race site logistics, sponsor, ambassador, and volunteer development, year-round race promotion, and technology integration management.
+  - As a business owner, I was self-driven and highly results-focused. I took intentional action to maximize impact on company growth and event success. I communicated openly with the team, encouraged interaction and involvement, and stayed cost-conscious without ever compromising participant experiences. I adapted well to changing demands and embraced challenging opportunities.
+  - In 2024, we successfully sold the DPR Trail Races and formally dissolved the business.
 
 ### **National Futures Association** (2003 - Aug 2017)
 
@@ -114,6 +122,13 @@ My wife and I both decided to leave our Software engineering jobs in Chicago to 
 - **Key Contributions:**
   - **Pioneered the creation of a data-driven template architecture** for a financial reporting system ([Easy File](https://www.nfa.futures.org/electronic-filing-systems/easyfile-1-fr-ib-filers.html)) from the ground up that decreased the implementation time for 12 other systems.
   - **Formed early stages of the organization's core IS Standards components** widely used by all applications to enforce consistency, reduce costs, and save time and effort.
+
+### **Founder/Consultant, New Leaf Technologies, Inc.** (2005 - 2009)
+
+- **Key Contributions:**
+  - I always enjoyed helping grow businesses on the web and streamline their processes through technology. As founder of New Leaf, a technology consulting company at its core, this new venture naturally opened a new chapter of growth for me. It afforded me to take what I learned previously and extend that to build a business network and customer base.
+  - Often, it takes the combination of the right talent to achieve success. There were times, I knew didn’t have all the necessary skills or the capacity to complete projects on my own to achieve success. Knowing when to ask for help is all part of working independently and I realize the benefit other resources can bring forth and leveraged it when necessary. I worked on an internal web project for [Fieldwork](https://www.fieldwork.com/) and a new public website and content management system for [Petroferm](https://www.petroferm.com), who is now Vantage.
+  - Starting this business eventually allowed me to start up an unlikely line of business, which I was passionate about; New Leaf Ultra Runs, a long-distance running group which had over 1,000 Facebook members and a popular following of a series of low key unofficial races, which later triggered the development of Runners 4 Wellness, an event management company that I co-founded.
 
 ### **Technical Project Leader, Bond Technologies** (1998-2002)
 
