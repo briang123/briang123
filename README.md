@@ -178,6 +178,16 @@ My wife and I both decided to leave our Software engineering jobs in Chicago to 
   - **Designed and developed several client/server and web applications** for various clients across **Financial, Media, Consumer, Insurance, and Industrial industries.**
   - **[United Airlines](https://www.united.com/) website support team leader** responsible for managing and guaranteeing the technical delivery of both Bond and United Airline employees, understanding, scheduling, and deploying content releases.
 
+### **Emissions Testing Technician / Technical Report Writer, Mostardi Platt** (1996 - 1998)
+
+- **Company Description:** [Mostardi Platt](https://www.mostardiplatt.com/) is an environmental consulting company that provides environmental testing and compliance services.
+- **Key Responsibilities:** Conducted environmental testing, collected emissions data, and wrote technical reports submitted to the EPA.
+- **Key Contributions:**
+  - **Environmental Testing:** Performed field testing and data collection for environmental compliance requirements
+  - **Technical Report Writing:** Created detailed technical reports for EPA submission, developing strong written communication skills
+  - **Data Processing:** Worked with field data and spreadsheets, gaining early exposure to data analysis and automation
+  - **Safety & Compliance:** Ensured all testing procedures met regulatory standards and safety requirements
+
 ## Side Ventures & Consulting
 
 ### **Race Director/Co-Founder, Runners 4 Wellness, LLC** (2014 - 2024)
