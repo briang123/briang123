@@ -14,6 +14,17 @@ Earlier in my career, I served as Race Director for the Christmas in July Races 
 
 Throughout my career, I have worn many hats, including developer, mentor, team lead, project manager, entrepreneur, and strategic partner to business stakeholders. I am passionate about creating environments where engineers can thrive, products can scale, and teams can innovate together.
 
+## 🎯 Key Highlights
+
+- **20+ years** of full-stack development experience with leadership progression from Developer → Team Lead → Engineering Manager
+- **Led globally distributed teams** (up to 8 direct reports) delivering mobile commerce solutions for major retail brands
+- **Proven track record** of building scalable platforms and improving team velocity through process optimization
+- **Diverse industry experience** across Finance, Insurance, Travel, Sports, Healthcare, Retail, E-Commerce, and more
+- **AI/LLM expertise** with hands-on experience in prompt engineering, AI-assisted development, and modern AI tools
+- **Entrepreneurial background** as co-founder of successful race management business (2014-2024)
+- **Strong technical foundation** in React, React Native, Node.js, .NET, and cloud platforms (Azure)
+- **Servant leadership approach** focused on mentoring, unblocking teams, and creating environments where engineers thrive
+
 ## 🔍 What I'm Seeking
 
 I'm actively seeking my next leadership opportunity. Having built a strong foundation as a Senior Engineer, Team Lead, and IT Project Manager, I am now focused on a management role that leverages my extensive experience with modern tech stacks and leading distributed teams.
@@ -22,36 +33,72 @@ My ideal position is one where I can act as a **servant leader**, focusing on th
 
 ## 🛠️ Skills & Expertise
 
-### Industries
+### Leadership & Management
 
-I've worked professional in several different industries over my career, including, but not limited to Finance, Insurance, Travel, Sports, Healthcare, Retail, E-Commerce, Motorsports, Environmental.
-
-### Technical Skills
-
-- **Frontend and Mobile Development:** React, React Hooks, React Native, Next.js, JavaScript, Typescript, Flutter, HTML5, CSS
-- **APIs and Data Handling:** Rest API, GraphQL, 3rd party APIs and libraries
-- **AI/LLM:** Prompt Engineering, Context Engineering, AI-Assisted Development, ChatGPT, Claude, Google Gemini
-- **State Management and Testing:** MobX, Redux, Jest, Cypress.io
-- **Backend Technologies:** Node.js, ExpressJS, ASP.NET/VB.NET, SQL, SQL Server, Oracle
-- **Development Tools and Version Control:** Git, GitHub, GitLab, GitFlow, VS Code, Cursor, Replit, App Center, Travis, Github Actions
-- **Release Management:** Manage app releases through Apple Developer Portal, App Store Connect, and Google Play Store
-- **Cloud Platforms:** Microsoft Azure (Foundational Knowledge)
+- **Team Leadership:** People management, Mentorship, Team Building, Conflict Resolution, Emotional Intelligence
+- **Strategic Planning:** Roadmapping, Cross-Functional Collaboration, Process Improvements, Problem Solving
+- **Remote & Offshore Team Management:** Leading distributed teams, Communication, Project Delivery
+- **Engineering Management:** Code Reviews, Technical Direction, Release Management, Agile/Scrum
+- **Client Relations:** Effective communicator, Client liaison, Technical discussions
 
 ### Soft Skills
 
-- **Leadership and Team Management:** People management, Mentorship, Team Building, Conflict Resolution, Emotional Intelligence
-- **Client Relations and Communication:** Effective communicator, skilled in client liaison and technical discussions.
-- **Problem Solving and Innovation:** Skilled in identifying and resolving complex technical issues, promoting continuous improvement.
-- **Project Delivery and Agile Practices:** Experienced in agile management, ensuring project clarity and adaptability.
-- **Mentorship and Development:** Committed to mentoring and developing teams, enhancing learning and growth.
+- **Communication:** Effective communicator, skilled in client liaison and technical discussions
+- **Problem Solving:** Skilled in identifying and resolving complex technical issues, promoting continuous improvement
+- **Project Delivery:** Experienced in agile management, ensuring project clarity and adaptability
+- **Mentorship & Development:** Committed to mentoring and developing teams, enhancing learning and growth
+- **Innovation:** Promoting continuous improvement and creative problem-solving
 
-### Professional Skills
+### Technical Skills
 
-- **Leadership & Strategy:** Leadership, Team Management, People Management, Mentorship, Client Relations, Strategic Planning, Roadmapping, Remote & Offshore Team Management, Cross-Functional Collaboration, Process Improvements, Problem Solving
-- **Engineering & Delivery:** Project Delivery, Scrum (Agile), Atlassian JIRA, Code Reviews, QA & Feature Testing, Version Control, Release Management, Technical Documentation
-- **Application Development:** Mobile Application Development, Web Application Development, Back-End Development, Front-End Engineering, E-Commerce Applications, Enterprise Development, App Store Deployment
+- **Frontend & Mobile Development:** React, React Hooks, React Native, Next.js, JavaScript, TypeScript, Flutter, HTML5, CSS
+- **AI/LLM:** Prompt Engineering, Context Engineering, AI-Assisted Development, ChatGPT, Claude, Google Gemini
+- **APIs & Data Handling:** REST API, GraphQL, 3rd party APIs and libraries
+- **Backend Technologies:** Node.js, ExpressJS, ASP.NET/VB.NET, SQL, SQL Server, Oracle
+- **State Management & Testing:** MobX, Redux, Context API, Jest, Cypress.io, Playwright
+- **Development Tools:** Git, GitHub, GitLab, GitFlow, VS Code, Cursor, Replit, App Center, Travis, GitHub Actions
+- **Release Management:** Apple Developer Portal, App Store Connect, Google Play Store
+- **Cloud Platforms:** Microsoft Azure (Foundational Knowledge)
+
+### Industries
+
+I've worked professionally in several different industries over my career, including, but not limited to Finance, Insurance, Travel, Sports, Healthcare, Retail, E-Commerce, Motorsports, Environmental.
+
+### 🎓 Professional Development & Continous Learning
+
+#### Leadership & Management
+
+- [Be the Manager People Won't Leave](certs/CertificateOfCompletion_Be%20the%20Manager%20People%20Wont%20Leave.pdf)
+- [Leading with Emotional Intelligence](certs/CertificateOfCompletion_Leading%20with%20Emotional%20Intelligence.pdf)
+- [Leading and Motivating People with Different Personalities](certs/CertificateOfCompletion_Leading%20and%20Motivating%20People%20with%20Different%20Personalities.pdf)
+- [Humor A Leaders Guide to Connection Safety and Trust](certs/CertificateOfCompletion_Humor%20A%20Leaders%20Guide%20to%20Connection%20Safety%20and%20Trust.pdf)
+- [Diversity Inclusion and Belonging](certs/CertificateOfCompletion_Diversity%20Inclusion%20and%20Belonging.pdf)
+
+#### Technical Skills
+
+- [React Building Large Apps](certs/CertificateOfCompletion_React%20Building%20Large%20Apps.pdf)
+- [React Ecosystems](certs/CertificateOfCompletion_React%20Ecosystems.pdf)
+- [React ServerSide Rendering 2018](certs/CertificateOfCompletion_React%20ServerSide%20Rendering%202018.pdf)
+- [Getting Started with Microsoft Azure by Microsoft Press](certs/CertificateOfCompletion_Getting%20Started%20with%20Microsoft%20Azure%20by%20Microsoft%20Press.pdf)
+- [Microsoft Azure Fundamentals AZ900 Cert Prep by Microsoft Press](certs/CertificateOfCompletion_Microsoft%20Azure%20Fundamentals%20AZ900%20Cert%20Prep%20by%20Microsoft%20Press.pdf)
+
+#### Communication & Strategy
+
+- [Presenting Technical Information with Stories](certs/CertificateOfCompletion_Presenting%20Technical%20Information%20with%20Stories.pdf)
+- [Strategic Thinking 2017](certs/CertificateOfCompletion_Strategic%20Thinking%202017.pdf)
+- [Sramana Mitra on Bootstrapping](certs/CertificateOfCompletion_Sramana%20Mitra%20on%20Bootstrapping.pdf)
 
 ## Professional Experience
+
+## 💼 AI Coding Projects
+
+Conducted a hands-on exploration of AI's impact on engineering workflows by leveraging AI agents (Replit, Cursor) powered by Claude and APIs from Google's Gemini to build full-stack applications in a low-code environment. This initiative was focused on understanding the capabilities, limitations, and strategic value of AI-assisted engineering to inform future team and process optimizations.
+
+### Key Projects:
+
+- **Rapid Prototyping:** Built a [resume builder](https://github.com/briang123/jobassist) and crypto site generator to evaluate how AI can accelerate prototyping and streamline development efforts.
+- **Advanced Feature Development:** Used AI to build a complex, web-based data manipulation platform, including advanced table operations, visualization, and OCR capabilities from images.
+- **AI Methodologies Exploration:** Developed the [Three-X-Rule](https://github.com/briang123/three-x-rule) application with social content generation to explore and compare different AI models (Gemini API), demonstrating hands-on experience with context management and multi-model integration.
 
 ### **Software Engineering Manager, Branding Brand** (June 2022 - May 2025)
 
@@ -85,13 +132,11 @@ I've worked professional in several different industries over my career, includi
 
 My wife and I both decided to leave our Software engineering jobs in Chicago to move to San Diego to raise our family. We agreed that I could take a planned sabbatical after relocating to enjoy San Diego, spend more time with family/kids, and learn some new technologies in the process.
 
-### **Race Director/Co-Founder, Runners 4 Wellness, LLC** (2014 - 2024)
+#### Udemy Learning Projects
 
-- **Key Contributions:**
-  - I had the special privilege of managing and organizing endurance events that changed lives. With our events, participants became part of our family, and we focused on providing the best possible runner experience. With a 5-star rating on Facebook and the positive feedback we received, it inspired us to continually raise the bar.
-  - As a race director, I oversaw, coordinated, and implemented the [Des Plaines River Trail Half Marathon, Marathon, and 50-Mile Trail Races](https://www.desplainesrivertrailraces.com), as well as the Christmas in July 5K, 6/12/24-Hour Solo and Relay Endurance Runs in the Chicago area. My responsibilities included budget management and accountability, race site logistics, sponsor, ambassador, and volunteer development, year-round race promotion, and technology integration management.
-  - As a business owner, I was self-driven and highly results-focused. I took intentional action to maximize impact on company growth and event success. I communicated openly with the team, encouraged interaction and involvement, and stayed cost-conscious without ever compromising participant experiences. I adapted well to changing demands and embraced challenging opportunities.
-  - In 2024, we successfully sold the DPR Trail Races and formally dissolved the business.
+- [MERN Stack - Social Media Site](https://github.com/briang123/Social-Media-Site)
+- [C# ASP.NET MVC - Video App Rebuild](https://github.com/briang123/Vidly)
+- [C# Unit Tests Code Along](https://github.com/briang123/TestNinja)
 
 ### **National Futures Association** (2003 - Aug 2017)
 
@@ -123,13 +168,6 @@ My wife and I both decided to leave our Software engineering jobs in Chicago to 
   - **Pioneered the creation of a data-driven template architecture** for a financial reporting system ([Easy File](https://www.nfa.futures.org/electronic-filing-systems/easyfile-1-fr-ib-filers.html)) from the ground up that decreased the implementation time for 12 other systems.
   - **Formed early stages of the organization's core IS Standards components** widely used by all applications to enforce consistency, reduce costs, and save time and effort.
 
-### **Founder/Consultant, New Leaf Technologies, Inc.** (2005 - 2009)
-
-- **Key Contributions:**
-  - I always enjoyed helping grow businesses on the web and streamline their processes through technology. As founder of New Leaf, a technology consulting company at its core, this new venture naturally opened a new chapter of growth for me. It afforded me to take what I learned previously and extend that to build a business network and customer base.
-  - Often, it takes the combination of the right talent to achieve success. There were times, I knew didn’t have all the necessary skills or the capacity to complete projects on my own to achieve success. Knowing when to ask for help is all part of working independently and I realize the benefit other resources can bring forth and leveraged it when necessary. I worked on an internal web project for [Fieldwork](https://www.fieldwork.com/) and a new public website and content management system for [Petroferm](https://www.petroferm.com), who is now Vantage.
-  - Starting this business eventually allowed me to start up an unlikely line of business, which I was passionate about; New Leaf Ultra Runs, a long-distance running group which had over 1,000 Facebook members and a popular following of a series of low key unofficial races, which later triggered the development of Runners 4 Wellness, an event management company that I co-founded.
-
 ### **Technical Project Leader, Bond Technologies** (1998-2002)
 
 - **Company Description:** [Bond Technologies](https://web.archive.org/web/19981202185709/http://www.bond.com/) was a professional services (consultancy) firm for Fortune 1000 companies. It's no longer around, the company was dissolved as a result of the the economy after the 9/11 attacks.
@@ -140,21 +178,39 @@ My wife and I both decided to leave our Software engineering jobs in Chicago to 
   - **Designed and developed several client/server and web applications** for various clients across **Financial, Media, Consumer, Insurance, and Industrial industries.**
   - **[United Airlines](https://www.united.com/) website support team leader** responsible for managing and guaranteeing the technical delivery of both Bond and United Airline employees, understanding, scheduling, and deploying content releases.
 
-## 💼 AI Coding Projects
+## Side Ventures & Consulting
 
-Conducted a hands-on exploration of AI's impact on engineering workflows by leveraging AI agents (Replit, Cursor) powered by Claude and APIs from Google's Gemini to build full-stack applications in a low-code environment. This initiative was focused on understanding the capabilities, limitations, and strategic value of AI-assisted engineering to inform future team and process optimizations.
+### **Race Director/Co-Founder, Runners 4 Wellness, LLC** (2014 - 2024)
 
-### Key Projects:
+_Note: Side venture while employed at NFA (2014-2017) and NPA (2019-2022)_
 
-- **Rapid Prototyping:** Built a [resume builder](https://github.com/briang123/jobassist) and crypto site generator to evaluate how AI can accelerate prototyping and streamline development efforts.
-- **Advanced Feature Development:** Used AI to build a complex, web-based data manipulation platform, including advanced table operations, visualization, and OCR capabilities from images.
-- **AI Methodologies Exploration:** Developed the [Three-X-Rule](https://github.com/briang123/three-x-rule) application with social content generation to explore and compare different AI models (Gemini API), demonstrating hands-on experience with context management and multi-model integration.
+- **Key Contributions:**
+  - I had the special privilege of managing and organizing endurance events that changed lives. With our events, participants became part of our family, and we focused on providing the best possible runner experience. With a 5-star rating on Facebook and the positive feedback we received, it inspired us to continually raise the bar.
+  - As a race director, I oversaw, coordinated, and implemented the [Des Plaines River Trail Half Marathon, Marathon, and 50-Mile Trail Races](https://www.desplainesrivertrailraces.com), as well as the Christmas in July 5K, 6/12/24-Hour Solo and Relay Endurance Runs in the Chicago area. My responsibilities included budget management and accountability, race site logistics, sponsor, ambassador, and volunteer development, year-round race promotion, and technology integration management.
+  - As a business owner, I was self-driven and highly results-focused. I took intentional action to maximize impact on company growth and event success. I communicated openly with the team, encouraged interaction and involvement, and stayed cost-conscious without ever compromising participant experiences. I adapted well to changing demands and embraced challenging opportunities.
+  - In 2024, we successfully sold the DPR Trail Races and formally dissolved the business.
+
+### **Founder/Consultant, New Leaf Technologies, Inc.** (2005 - 2009)
+
+_Note: Side venture while employed at NFA_
+
+- **Key Contributions:**
+  - I always enjoyed helping grow businesses on the web and streamline their processes through technology. As founder of New Leaf, a technology consulting company at its core, this new venture naturally opened a new chapter of growth for me. It afforded me to take what I learned previously and extend that to build a business network and customer base.
+  - Often, it takes the combination of the right talent to achieve success. There were times, I knew didn’t have all the necessary skills or the capacity to complete projects on my own to achieve success. Knowing when to ask for help is all part of working independently and I realize the benefit other resources can bring forth and leveraged it when necessary. I worked on an internal web project for [Fieldwork](https://www.fieldwork.com/) and a new [public website and content management system](https://github.com/briang123/Petroferm-Website-And-CMS) for [Petroferm](https://www.petroferm.com), who is now Vantage.
+  - Starting this business eventually allowed me to start up an unlikely line of business, which I was passionate about; New Leaf Ultra Runs, a long-distance running group which had over 1,000 Facebook members and a popular following of a series of low key unofficial races, which later triggered the development of Runners 4 Wellness, an event management company that I co-founded.
 
 ## 🏫 Education
 
 I attended Belleville Area College on a Tennis scholarship in Belleville, IL from 1990 to 1992 to get my general studies out of the way.
 
 I then transferred to Illinois State University in Normal, IL and graduated in 1995 with a Bachelor of Science degree in Geology.
+
+## 🏃‍♂️ Personal Achievements & Interests
+
+- **Ultra-Marathon Runner**: Completed 30+ ultra-marathons, including a run across the state of Illinois
+- **Running Community Leadership**: Founded and led a running group (2009-2012) that organized unofficial races, building community and fostering participation
+- **Current Sports**: Pickleball
+- **Leadership & Persistence**: Ultra-running and community organizing demonstrate exceptional goal-setting, mental toughness, and ability to work with support teams
 
 ## ⚒️ My Move From Geology to Software Development
 
@@ -168,12 +224,12 @@ Seeing the potential, I decided to pursue coding full-time and put my resume on 
 
 This approach, learning by doing and being thrown into diverse tech environments became my pathway from geology to a full-time career in software development.
 
-## 📊 Meta
+## ⚡Github Activity
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=briang123&show_icons=true)
 
 ## 🎵 Spotify Focus Playlist
 
-I wanted to share a coding playlist I created that is mostly of Post-Rock and Electronic Instrumental music that contains sounds which allow you to forget the world and just focus on coding or any other focus activity. The songs truly are relaxing and will allow you to get in a zone for extended periods of time. Feel free to follow the playlist if you're on Spotify.
+I've curated a focused coding playlist featuring Post-Rock and Electronic Instrumental music designed for deep work and extended coding sessions. The carefully selected tracks create an optimal environment for sustained focus and productivity. Feel free to explore if you're on Spotify.
 
 [Focused Coding](https://open.spotify.com/playlist/3tLx7gewQRuHOE3dpGGKgQ?si=b3e94ee3a1524cc5) Playlist on Spotify
