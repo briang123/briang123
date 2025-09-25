@@ -90,11 +90,11 @@ I've worked professionally in several different industries over my career, inclu
 
 ## Professional Experience
 
-## 💼 AI Coding Projects
+### 💼 AI Coding Projects
 
 Conducted a hands-on exploration of AI's impact on engineering workflows by leveraging AI agents (Replit, Cursor) powered by Claude and APIs from Google's Gemini to build full-stack applications in a low-code environment. This initiative was focused on understanding the capabilities, limitations, and strategic value of AI-assisted engineering to inform future team and process optimizations.
 
-### Key Projects:
+#### Key Projects:
 
 - **Rapid Prototyping:** Built a [resume builder](https://github.com/briang123/jobassist) and crypto site generator to evaluate how AI can accelerate prototyping and streamline development efforts.
 - **Advanced Feature Development:** Used AI to build a complex, web-based data manipulation platform, including advanced table operations, visualization, and OCR capabilities from images.
@@ -207,8 +207,8 @@ I then transferred to Illinois State University in Normal, IL and graduated in 1
 
 ## 🏃‍♂️ Personal Achievements & Interests
 
-- **Ultra-Marathon Runner**: Completed 30+ ultra-marathons, including a run across the state of Illinois
-- **Running Community Leadership**: Founded and led a running group (2009-2012) that organized unofficial races, building community and fostering participation
+- **Ultra-Marathon Runner**: [Completed 30+ ultra-marathons](https://ultrasignup.com/results_participant.aspx?fname=Brian&lname=Gaines), including a run across the state of Illinois
+- **Running Community Leadership**: Founded and led a running group (2009-2013) that organized unofficial races, building community and fostering participation
 - **Current Sports**: Pickleball
 - **Leadership & Persistence**: Ultra-running and community organizing demonstrate exceptional goal-setting, mental toughness, and ability to work with support teams
 
