@@ -71,7 +71,7 @@ I've worked professionally in several different industries over my career, inclu
 - [Be the Manager People Won't Leave](certs/CertificateOfCompletion_Be%20the%20Manager%20People%20Wont%20Leave.pdf)
 - [Leading with Emotional Intelligence](certs/CertificateOfCompletion_Leading%20with%20Emotional%20Intelligence.pdf)
 - [Leading and Motivating People with Different Personalities](certs/CertificateOfCompletion_Leading%20and%20Motivating%20People%20with%20Different%20Personalities.pdf)
-- [Humor A Leaders Guide to Connection Safety and Trust](certs/CertificateOfCompletion_Humor%20A%20Leaders%20Guide%20to%20Connection%20Safety%20and%20Trust.pdf)
+- [Humor: A Leaders Guide to Connection Safety and Trust](certs/CertificateOfCompletion_Humor%20A%20Leaders%20Guide%20to%20Connection%20Safety%20and%20Trust.pdf)
 - [Diversity Inclusion and Belonging](certs/CertificateOfCompletion_Diversity%20Inclusion%20and%20Belonging.pdf)
 
 #### Technical Skills
