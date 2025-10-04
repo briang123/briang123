@@ -1,18 +1,34 @@
 ## 👋 Hi, I'm Brian Gaines!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briang.sandiego@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briangaines)
+[![Website](https://img.shields.io/badge/Website-14B8A6?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://briangaines.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briang.sandiego@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briangaines)
 
 ## 🚀 About Me
 
-I'm a collaborative engineering leader who believes teams do their best work when there is trust, clarity, and shared ownership. I give engineers a real voice in how we build things while keeping us aligned on the big picture. My focus is on open communication, quickly unblocking challenges, and making sure people feel supported, especially when priorities shift or pressure builds. I do not micromanage; instead, I stay close enough to help guide technical decisions when needed. My ultimate goal is to build a healthy team culture where engineers feel proud of what they are building and enjoy the process of solving hard problems together.
+I build high-performing engineering teams that ship great products.
 
-With over two decades of **full-stack development experience**, I have led globally distributed teams in delivering scalable mobile solutions for some of the world's most recognized retail brands. At Branding Brand, I helped launch white-label mobile commerce platforms using **React Native and Flutter**, drove process innovation, and cultivated a culture of learning and technical excellence. My technical background includes front-end work in **React** and **React Native**, backend systems like **ASP.NET** and **Node.js**, and database development with **SQL Server** and **Oracle**.
+Over the past 20 years, I've led distributed teams delivering mobile commerce solutions for major retail brands including Boot Barn, CVS Health, and Country Road. At Branding Brand, I managed teams of up to 8 engineers, architected white-label platforms that reduced time-to-market, and established development practices that improved both velocity and code quality.
 
-Beyond engineering leadership, I’ve been exploring ways to creatively apply AI by building side projects and lightweight SaaS tools. I'm especially interested in how AI can streamline development workflows and create new opportunities for automation, personalization, and problem-solving. I’m also following the evolution of Web3 and crypto, and enjoy experimenting with apps and protocols in the decentralized space.
+My leadership approach is built on trust, transparency, and shared ownership. I give engineers real voice in technical decisions while maintaining strategic alignment with business goals. I don't micromanage—I create clarity, remove blockers, and ensure my team has what they need to do their best work. When pressure builds or priorities shift, I stay close enough to guide decisions without getting in the way.
 
-Earlier in my career, I served as Race Director for the Christmas in July Races and the Des Plaines River Trail Races, managing sponsorships, marketing, operations, and race-day logistics. That experience gave me firsthand insight into **entrepreneurship**, brand building, and delivering large-scale experiences with tight timelines.
+What I bring to engineering leadership:
+- 20+ years of hands-on full-stack development (React, React Native, Node.js, .NET, SQL)
+- Experience scaling mobile platforms used by millions of customers
+- Track record of improving team velocity through process optimization and automation
+- Deep understanding of modern development workflows, CI/CD, and mobile app distribution
+- Passion for mentorship and growing engineers into technical leaders
 
-Throughout my career, I have worn many hats, including developer, mentor, team lead, project manager, entrepreneur, and strategic partner to business stakeholders. I am passionate about creating environments where engineers can thrive, products can scale, and teams can innovate together.
+I'm currently exploring how AI can transform development workflows—building side projects and experimenting with LLM integration to understand where these tools create real leverage for engineering teams. I believe the next generation of engineering leaders will need to understand how to apply AI strategically, not just technically.
+
+Earlier in my career, I was Race Director for the Christmas in July Races and Des Plaines River Trail Races—an experience that taught me valuable lessons about stakeholder management, logistics at scale, and delivering under pressure with limited resources. Those skills translate directly to managing complex engineering projects.
+
+When I'm not coaching teams or reviewing pull requests, you'll find me on the pickleball courts of San Diego, cheering on my kids at their games, or running trails.
+
+I'm always open to connecting with:
+- Engineering leaders navigating team growth and technical challenges
+- Companies building innovative mobile or full-stack products
+- Technologists interested in AI's practical applications in software development
+
+Learn more: https://www.briangaines.com/
 
 ## 🎯 Key Highlights
 
